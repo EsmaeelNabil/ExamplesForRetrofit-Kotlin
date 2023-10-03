@@ -65,7 +65,7 @@ dependencies {
      convert from string 'json' to -> Java or kotlin object
      convert from java or koltin object to -> string 'json'
     * */
-    implementation "com.google.code.gson:gson:2.8.6"
+    implementation "com.google.code.gson:gson:2.10.1"
 
 
     // For Logging
